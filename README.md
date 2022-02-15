@@ -20,3 +20,5 @@ demand = np.array(...)      # (N,)
 best_route, best_cost, history = run_aco(dist, demand, capacity=1.0,
                                          cfg=ACOConfig(n_ants=50, n_iterations=200))
 ```
+
+<!-- notes 2022-02 -->
