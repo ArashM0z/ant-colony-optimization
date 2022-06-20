@@ -26,3 +26,5 @@ best_route, best_cost, history = run_aco(dist, demand, capacity=1.0,
 <!-- notes 2022-03 -->
 
 <!-- notes 2022-05 -->
+
+<!-- notes 2022-06 -->
