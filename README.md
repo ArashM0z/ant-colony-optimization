@@ -434,3 +434,5 @@ best_route, best_cost, history = run_aco(dist, demand, capacity=1.0,
 <!-- m 2025-08-04T17:01:00-06:00 -->
 
 <!-- burst 2022-08-01 #1 -->
+
+<!-- burst 2022-08-01 #2 -->
