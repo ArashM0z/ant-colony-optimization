@@ -136,3 +136,5 @@ best_route, best_cost, history = run_aco(dist, demand, capacity=1.0,
 <!-- iter 2026-02-23-17 -->
 
 <!-- iter 2026-02-23-19 -->
+
+<!-- iter 2026-02-23-21 -->
